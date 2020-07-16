@@ -1,0 +1,4 @@
+nltk==3.5
+spacy==2.3.2
+Unidecode==1.1.1
+gensim==3.8.3
