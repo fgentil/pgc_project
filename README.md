@@ -3,9 +3,9 @@
 
 ## Dataset
   Petições Iniciais de processos trabalhista.
-  3494 Documentos.
+  6518 Documentos.
   
-  Dataset tem 16020 palavras unicas e 3432391 palavras totais.
+  Dataset tem 21242 palavras unicas e 5673391 palavras totais.
 
 ## Modelos
   TODO 
